@@ -1,0 +1,3 @@
+Link: https://www.gismeteo.ua/ru/weather-kyiv-4944/now/; Temperature: +5; Weather-feel: +5
+Link: https://www.meteoprog.ua/ru/weather/Kyiv/; Temperature: +2°; Weather-feel: +3°C
+Link: https://sinoptik.ua/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%BA%D0%B8%D0%B5%D0%B2; Temperature: +3°C; Weather-feel: +3°C
